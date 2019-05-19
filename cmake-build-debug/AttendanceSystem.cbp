@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug"/>
+				<Option working_dir="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AttendanceSystem">
-				<Option output="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/AttendanceSystem.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug"/>
+				<Option output="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/AttendanceSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="D:/Code Blocks/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 AttendanceSystem"/>
-					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 AttendanceSystem"/>
+					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AttendanceSystem/fast">
-				<Option output="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/AttendanceSystem.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug"/>
+				<Option output="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/AttendanceSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,43 +53,43 @@
 					<Add directory="D:/Code Blocks/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 AttendanceSystem/fast"/>
-					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 AttendanceSystem/fast"/>
+					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug"/>
+				<Option working_dir="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug"/>
+				<Option working_dir="C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Code Blocks/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/blues/Desktop/AttendanceSystem/attendance.cpp">
+		<Unit filename="C:/Users/blues/Desktop/CardSwipe/Attendance-System/attendance.cpp">
 			<Option target="AttendanceSystem"/>
 		</Unit>
-		<Unit filename="C:/Users/blues/Desktop/AttendanceSystem/attendance.h">
+		<Unit filename="C:/Users/blues/Desktop/CardSwipe/Attendance-System/attendance.h">
 			<Option target="AttendanceSystem"/>
 		</Unit>
-		<Unit filename="C:/Users/blues/Desktop/AttendanceSystem/main.cpp">
+		<Unit filename="C:/Users/blues/Desktop/CardSwipe/Attendance-System/main.cpp">
 			<Option target="AttendanceSystem"/>
 		</Unit>
-		<Unit filename="C:/Users/blues/Desktop/AttendanceSystem/CMakeLists.txt">
+		<Unit filename="C:/Users/blues/Desktop/CardSwipe/Attendance-System/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

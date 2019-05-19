@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.3.1\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\blues\Desktop\AttendanceSystem
+CMAKE_SOURCE_DIR = C:\Users\blues\Desktop\CardSwipe\Attendance-System
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/AttendanceSystem.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/AttendanceSystem.dir/flags.make
 
 CMakeFiles/AttendanceSystem.dir/main.cpp.obj: CMakeFiles/AttendanceSystem.dir/flags.make
 CMakeFiles/AttendanceSystem.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AttendanceSystem.dir/main.cpp.obj"
-	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AttendanceSystem.dir\main.cpp.obj -c C:\Users\blues\Desktop\AttendanceSystem\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AttendanceSystem.dir/main.cpp.obj"
+	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AttendanceSystem.dir\main.cpp.obj -c C:\Users\blues\Desktop\CardSwipe\Attendance-System\main.cpp
 
 CMakeFiles/AttendanceSystem.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AttendanceSystem.dir/main.cpp.i"
-	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\blues\Desktop\AttendanceSystem\main.cpp > CMakeFiles\AttendanceSystem.dir\main.cpp.i
+	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\blues\Desktop\CardSwipe\Attendance-System\main.cpp > CMakeFiles\AttendanceSystem.dir\main.cpp.i
 
 CMakeFiles/AttendanceSystem.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AttendanceSystem.dir/main.cpp.s"
-	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\blues\Desktop\AttendanceSystem\main.cpp -o CMakeFiles\AttendanceSystem.dir\main.cpp.s
+	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\blues\Desktop\CardSwipe\Attendance-System\main.cpp -o CMakeFiles\AttendanceSystem.dir\main.cpp.s
 
 CMakeFiles/AttendanceSystem.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/AttendanceSystem.dir/main.cpp.obj.provides.build: CMakeFiles/Attendan
 
 CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj: CMakeFiles/AttendanceSystem.dir/flags.make
 CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj: ../attendance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj"
-	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AttendanceSystem.dir\attendance.cpp.obj -c C:\Users\blues\Desktop\AttendanceSystem\attendance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj"
+	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AttendanceSystem.dir\attendance.cpp.obj -c C:\Users\blues\Desktop\CardSwipe\Attendance-System\attendance.cpp
 
 CMakeFiles/AttendanceSystem.dir/attendance.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AttendanceSystem.dir/attendance.cpp.i"
-	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\blues\Desktop\AttendanceSystem\attendance.cpp > CMakeFiles\AttendanceSystem.dir\attendance.cpp.i
+	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\blues\Desktop\CardSwipe\Attendance-System\attendance.cpp > CMakeFiles\AttendanceSystem.dir\attendance.cpp.i
 
 CMakeFiles/AttendanceSystem.dir/attendance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AttendanceSystem.dir/attendance.cpp.s"
-	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\blues\Desktop\AttendanceSystem\attendance.cpp -o CMakeFiles\AttendanceSystem.dir\attendance.cpp.s
+	"D:\Code Blocks\CodeBlocks\MinGW\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\blues\Desktop\CardSwipe\Attendance-System\attendance.cpp -o CMakeFiles\AttendanceSystem.dir\attendance.cpp.s
 
 CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj.requires:
 
@@ -118,7 +118,7 @@ AttendanceSystem.exe: CMakeFiles/AttendanceSystem.dir/build.make
 AttendanceSystem.exe: CMakeFiles/AttendanceSystem.dir/linklibs.rsp
 AttendanceSystem.exe: CMakeFiles/AttendanceSystem.dir/objects1.rsp
 AttendanceSystem.exe: CMakeFiles/AttendanceSystem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable AttendanceSystem.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable AttendanceSystem.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AttendanceSystem.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -136,6 +136,6 @@ CMakeFiles/AttendanceSystem.dir/clean:
 .PHONY : CMakeFiles/AttendanceSystem.dir/clean
 
 CMakeFiles/AttendanceSystem.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\blues\Desktop\AttendanceSystem C:\Users\blues\Desktop\AttendanceSystem C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug C:\Users\blues\Desktop\AttendanceSystem\cmake-build-debug\CMakeFiles\AttendanceSystem.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\blues\Desktop\CardSwipe\Attendance-System C:\Users\blues\Desktop\CardSwipe\Attendance-System C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug C:\Users\blues\Desktop\CardSwipe\Attendance-System\cmake-build-debug\CMakeFiles\AttendanceSystem.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/AttendanceSystem.dir/depend
 

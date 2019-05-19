@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/blues/Desktop/AttendanceSystem/attendance.cpp" "C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj"
-  "C:/Users/blues/Desktop/AttendanceSystem/main.cpp" "C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/CMakeFiles/AttendanceSystem.dir/main.cpp.obj"
+  "C:/Users/blues/Desktop/CardSwipe/Attendance-System/attendance.cpp" "C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/CMakeFiles/AttendanceSystem.dir/attendance.cpp.obj"
+  "C:/Users/blues/Desktop/CardSwipe/Attendance-System/main.cpp" "C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/CMakeFiles/AttendanceSystem.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

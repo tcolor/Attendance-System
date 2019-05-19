@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/blues/Desktop/AttendanceSystem
+# Install script for directory: C:/Users/blues/Desktop/CardSwipe/Attendance-System
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/blues/Desktop/AttendanceSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/blues/Desktop/CardSwipe/Attendance-System/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
