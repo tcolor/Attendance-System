@@ -54,5 +54,5 @@ int main() {
 // 3. Add when someone swipes successfully by printing name
 // 4. Figure out what to do when a bunch of char are added AND 1, 2, or 3
 // if there are more than one character, make an error
-// 4. Ask Connor blah
+// 4. 
 // 5. Copy the last thing output to console, delete the rest, and copy it back to the console
