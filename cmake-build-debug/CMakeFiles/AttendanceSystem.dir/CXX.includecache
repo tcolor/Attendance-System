@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/blues/Desktop/AttendanceSystem/attendance.cpp
+attendance.h
+C:/Users/blues/Desktop/AttendanceSystem/attendance.h
+
+C:/Users/blues/Desktop/AttendanceSystem/attendance.h
+iostream
+-
+fstream
+-
+sstream
+-
+ctime
+-
+chrono
+-
+cstdlib
+-
+string
+-
+
+C:/Users/blues/Desktop/AttendanceSystem/main.cpp
+iostream
+-
+attendance.h
+C:/Users/blues/Desktop/AttendanceSystem/attendance.h
+
